@@ -4,7 +4,12 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on PYTHON<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Python-based web development projects
+👯 I’m looking to collaborate on full-stack Python web applications
+🤝 I’m looking for help with optimizing web performance and server-side logic
+🌱 I’m currently learning advanced web frameworks like Django and Flask
+💬 Ask me about building REST APIs, handling databases, or integrating front-end with back-end
+⚡ Fun fact: I once built a weather app using Flask that integrated live data from multiple APIs in under 24 hours!
 
 
 # 💻 Tech Stack:
